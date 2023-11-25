@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1649128787 source:d:\tugas insertion sort\main.cpp
+	<iostream>
+	"header.h"
+
+1649128701 d:\tugas insertion sort\header.h
+	<iostream>
+
+1649128787 source:e:\semester 2\alpro\tugas insertion sort\main.cpp
+	<iostream>
+	"header.h"
+
+1649128701 e:\semester 2\alpro\tugas insertion sort\header.h
+	<iostream>
+

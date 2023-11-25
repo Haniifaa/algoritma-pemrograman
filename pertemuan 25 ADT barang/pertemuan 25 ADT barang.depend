@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655265209 source:e:\semester 2\alpro\pertemuan 25 adt barang\main.cpp
+	<iostream>
+	"header.h"
+
+1655265337 e:\semester 2\alpro\pertemuan 25 adt barang\header.h
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649816167 source:d:\pap05\main.cpp
+	<iostream>
+	"header.h"
+
+1649815881 d:\pap05\header.h
+	<iostream>
+

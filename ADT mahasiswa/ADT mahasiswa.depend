@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656398517 source:e:\semester 2\alpro\adt mahasiswa\main.cpp
+	<iostream>
+	"header.h"
+
+1655691247 e:\semester 2\alpro\adt mahasiswa\header.h
+	<iostream>
+	<string.h>
+

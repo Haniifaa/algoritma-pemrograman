@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1649041417 source:d:\pertemuan9\main.cpp
+	<iostream>
+	"header.h"
+
+1649041567 d:\pertemuan9\header.h
+	<iostream>
+
+1649044681 source:e:\semester 2\alpro\pertemuan9\main.cpp
+	<iostream>
+	"header.h"
+
+1649041595 e:\semester 2\alpro\pertemuan9\header.h
+	<iostream>
+

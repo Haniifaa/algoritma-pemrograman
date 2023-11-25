@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649743734 source:d:\pertemuan13\main.cpp
+	<iostream>
+	"header.h"
+
+1649744155 d:\pertemuan13\header.h
+	<iostream>
+

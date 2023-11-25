@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649217325 source:d:\tugaspap4\main.cpp
+	<iostream>
+	"tugaspap4.h"
+
+1649218592 d:\tugaspap4\tugaspap4.h
+	<iostream>
+

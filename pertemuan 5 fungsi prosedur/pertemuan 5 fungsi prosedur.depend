@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647226427 source:d:\pertemuan 5 fungsi prosedur\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
